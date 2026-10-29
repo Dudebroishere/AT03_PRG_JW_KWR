@@ -4,6 +4,9 @@
 ## File Naming
 (Category) _ (Name) _ (Descriptor) _ (Identifier) . (Extension)
 
+## Branch Naming
+Feature / (NameofFeature) - (Name of Individual)
+
 ## Features
 
 | Jake White               | Features                                                                                                                             |
